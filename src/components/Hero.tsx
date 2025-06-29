@@ -8,7 +8,7 @@ interface HeroProps {
 const Hero: React.FC<HeroProps> = ({ language }) => {
   const content = {
     en: {
-      title: 'Shiga Duniya Web3 da Polkadot',
+      title: 'Shiga Duniyar Blockchain da Polkadot',
       subtitle: 'Join the largest Hausa blockchain community in Africa',
       description: 'Learn blockchain technology, participate in the Polkadot ecosystem, and build the future of decentralized finance with your community.',
       joinNow: 'Join Now',
@@ -20,7 +20,7 @@ const Hero: React.FC<HeroProps> = ({ language }) => {
       }
     },
     ha: {
-      title: 'Shiga Duniya Web3 da Polkadot',
+      title: 'Shiga Duniyar Blockcain da Polkadot',
       subtitle: 'Shiga babbar al\'ummar blockchain ta Hausa a Afirka',
       description: 'Koyi fasahar blockchain, shiga cikin tsarin Polkadot, kuma gina makomar kudin da ba a rike ba tare da al\'ummarku.',
       joinNow: 'Shiga Yanzu',
