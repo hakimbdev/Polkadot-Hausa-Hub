@@ -118,7 +118,7 @@ const Hero: React.FC<HeroProps> = ({ language }) => {
                     />
                     <div>
                       <h3 className="font-semibold text-gray-900 text-sm sm:text-base">Polkadot Hausa</h3>
-                      <p className="text-xs sm:text-sm text-gray-600">Web3 Community</p>
+                      <p className="text-xs sm:text-sm text-gray-600">Blockchain Community</p>
                     </div>
                   </div>
                   <div className="space-y-2">
